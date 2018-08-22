@@ -8,7 +8,7 @@ III) Transformations
 
 ### I) tidy_data1.csv
 
-*The tidy_data1.csv data file is a text file, containing comma-separated values.
+The tidy_data1.csv data file is a text file, containing comma-separated values.
 
 **Rows:**
 Totally there are _10,300_ rows in the file 
