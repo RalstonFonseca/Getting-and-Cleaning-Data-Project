@@ -133,4 +133,3 @@ Special characters *(* and *)* were removed
 Starting letters *t* and *f* were expanded to *time* and *frequency* respectively.
 *Acc*, *Gyro* and *Mag*  were replaced with *Accelerometer*, *Gyroscope* and *Magnitude* respectively.
 Replaced *BodyBody* occurence with *Body*
-
