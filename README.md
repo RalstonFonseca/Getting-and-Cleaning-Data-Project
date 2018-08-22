@@ -13,6 +13,7 @@ This project contains the following:
 	c) Uses descriptive activity names to name the activities in the data set
 	d) Appropriately labels the data set with descriptive variable names (tidy_data1.txt). 
 	e) From the data set in step d, creates a second, independent tidy data set (tidy_data2.txt) with the average of each variable for each activity and each subject.
+	_Usage:_ The run_analysis.R script assumes there is internet connectivity to download the data. The script downloads the zip file in current working directory and unzips the contents. It does all the in memory trasnformations and saves the two data files in the current working directory. 
 2) *CodeBook.md*, a code book that describes the variables, the data, and any transformations or work that you performed to clean up the data.
 3) Two tidy datasets - *tidy_data1.txt* and *tidy_data2.txt* as described above.
 4) *README.md* describing the project and the contents.
