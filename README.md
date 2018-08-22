@@ -11,10 +11,10 @@ This project contains the following:
 	a) Merges the training and the test sets to create one data set.
 	b) Extracts only the measurements on the mean and standard deviation for each measurement. 
 	c) Uses descriptive activity names to name the activities in the data set
-	d) Appropriately labels the data set with descriptive variable names (tidy_data1.csv). 
-	e) From the data set in step d, creates a second, independent tidy data set (tidy_data2.csv) with the average of each variable for each activity and each subject.
+	d) Appropriately labels the data set with descriptive variable names (tidy_data1.txt). 
+	e) From the data set in step d, creates a second, independent tidy data set (tidy_data2.txt) with the average of each variable for each activity and each subject.
 2) *CodeBook.md*, a code book that describes the variables, the data, and any transformations or work that you performed to clean up the data.
-3) Two tidy datasets - *tidy_data1.csv* and *tidy_data2.csv* as described above.
+3) Two tidy datasets - *tidy_data1.txt* and *tidy_data2.txt* as described above.
 4) *README.md* describing the project and the contents.
 
 
