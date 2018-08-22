@@ -2,13 +2,13 @@
 
 This CodeBook describes the data and variables in 2 data files and Transformations:
 
-I) The initial tidy data file - tidy_data1.csv.
-II) The tidy data set tidy_data2.csv which is derived from tidy_data1.csv with the average of each variable for each activity and each subject.
+I) The initial tidy data file - tidy_data1.txt.
+II) The tidy data set tidy_data2.txt which is derived from tidy_data1.txt with the average of each variable for each activity and each subject.
 III) Transformations
 
-### I) tidy_data1.csv
+### I) tidy_data1.txt
 
-The tidy_data1.csv data file is a text file, containing comma-separated values.
+The tidy_data1.txt data file is a text file, containing space-separated values.
 
 **Rows:**
 Totally there are _10,300_ rows in the file 
@@ -111,9 +111,9 @@ These signals were used to estimate variables _(mean & std)_ of the feature vect
 * frequencyBodyGyroscopeJerkMagnitude-std
 
 
-### II) tidy_data2.csv
+### II) tidy_data2.txt
 
-* The tidy_data2.csv data file is a text file, containing comma-separated values.
+* The tidy_data2.txt data file is a text file, containing space-separated values.
 
 **Rows:**
 Totally there are _181_ rows in the file.
